@@ -1,0 +1,17 @@
+.logo {
+  width: 100px;
+  height: 100px;
+}
+.nav-item {
+  font-size: larger;
+}
+/* Homepage */
+.hidden {
+  display: none;
+}
+.card {
+  max-width: 16rem;
+}
+.card:hover {
+  opacity: 0.9;
+}
